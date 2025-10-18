@@ -50,18 +50,6 @@
 </details>
 
 <details open>
-	<summary><h3>IDE</h3></summary>
-<p>
-    <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-	<!-- <img alt="Android Studio" src="https://img.shields.io/badge/-Android Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" /> -->
-	<img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" />
-    <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" />
-
-</p>
-</details>
-
-
-<details open>
 	<summary><h3>Databases</h3></summary>
 	<p>
 		<img alt="Postgresql" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
@@ -71,7 +59,7 @@
 
 
 <details open>
-	<summary><h3>Cloud Tools</h3></summary>
+	<summary><h3>Cloud</h3></summary>
 	<p>
 		<img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
 		<!-- <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /> -->
@@ -89,23 +77,6 @@
 		<img alt="OpenAI" src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
 	</p>
 </details> -->
-
-
-<details open>
-    <summary><h3>DevTools</h3></summary>
-    <p>
-        <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-        <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
-        <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-        <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-        <!-- <img alt="Gradle" src="https://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" /> -->
-        <!-- <img alt="Expo" src="https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white" /> -->
-        <img alt="Babel" src="https://img.shields.io/badge/-Babel-F9DC3E?style=flat-square&logo=babel&logoColor=black" />
-        <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-    </p>
-</details>
-
-  
 
 <details open>
 	<summary><h3>🔤 Languages</h3></summary>
