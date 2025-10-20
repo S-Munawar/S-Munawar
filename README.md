@@ -17,7 +17,7 @@
     <a href="https://stackoverflow.com/users/shaikabdulmunawar">
         <img alt="Stack Overflow" title="Stack Overflow Profile" src="https://img.shields.io/badge/-Stack%20Overflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
     </a>
-    <a href="https://shaikabdulmunawar.me">
+    <a href="https://www.shaikmunawar.me">
 		<img alt="Portfolio" title="Visit my Portfolio" src="https://img.shields.io/badge/-Portfolio-1E3A8A?style=for-the-badge&logo=about-dot-me&logoColor=white"/>
     </a>
 </p>
