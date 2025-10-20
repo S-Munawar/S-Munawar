@@ -17,9 +17,9 @@
     <a href="https://stackoverflow.com/users/shaikabdulmunawar">
         <img alt="Stack Overflow" title="Stack Overflow Profile" src="https://img.shields.io/badge/-Stack%20Overflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
     </a>
-    <!-- <a href="https://shaikabdulmunawar.com">
-        <img alt="Portfolio" title="Visit my Portfolio" src="https://img.shields.io/badge/-Portfolio-6C63FF?style=for-the-badge&logo=about-dot-me&logoColor=white"/>
-    </a> -->
+    <a href="https://shaikabdulmunawar.com">
+		<img alt="Portfolio" title="Visit my Portfolio" src="https://img.shields.io/badge/-Portfolio-1E3A8A?style=for-the-badge&logo=about-dot-me&logoColor=white"/>
+    </a>
 </p>
 
 ---
