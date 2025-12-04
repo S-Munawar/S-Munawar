@@ -1,8 +1,8 @@
 # 🏄‍♂️ Shaik Abdul Munawar
 
-- 💻 **Full Stack Developer** | ⚙️ Passionate about AI, Web, and Cloud
+- 💻 **Full Stack Developer** | ⚙️ Passionate about DevOps
 - 🚀 **Vice Tech Captain at ACM MJCET**
-- 🎓 **AI&DS Undergrad** at **MJCET**  
+- 🎓 **Data Science Undergrad** at **MJCET**  
 
 <p align="left">
     <a href="https://www.linkedin.com/in/shaikabdulmunawar/">
