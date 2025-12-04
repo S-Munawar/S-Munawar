@@ -109,6 +109,7 @@
 * Datanyx 2024 at MJCET, Hyderabad
 * AEON '25, Web3 Buildathon at Mahindra University, Hyderabad
 * Hack Revolution 2025 at MJCET, Hyderabad
+* Datanyx 2025 at MJCET, Hyderabad
 
 <!-- ---
 
