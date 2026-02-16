@@ -35,13 +35,15 @@ interests: ["Web Dev", "Cloud Architecture", "DevOps", "Data Science"]
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<!-- 
 ---
 
-<!-- ## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=S-Munawar&theme=darkhub&no-frame=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" width="95%"/>
-</div> -->
+</div> 
+-->
 
 ---
 
